@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782950100156",
+    "project_id": "flash-chat-5c3bd",
+    "storage_bucket": "flash-chat-5c3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782950100156:android:63243a579b9082e09f74b9",
+        "android_client_info": {
+          "package_name": "com.nik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782950100156-copgf19adu2kiqi8q77vjtmsp4to4hcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqabxQzyO1ojiedbZ71gBNmk36Ndu1NFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782950100156-copgf19adu2kiqi8q77vjtmsp4to4hcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
